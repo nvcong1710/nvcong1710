@@ -1,16 +1,22 @@
-### Hi there 👋
+# 💫 About Me:
+Hi, I'm Nguyen Trong Dung, a third-year student at Ho Chi Minh City University of Technology And Education (HCMUTE)
 
-<!--
-**nvcong1710/nvcong1710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📊 GitHub Stats:
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvcong1710&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="NgTrDung" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=nvcong1710&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="NgTrDung" width="100%"/>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="https://i.pinimg.com/originals/2f/9d/46/2f9d469e0b2a7e234b78eb687db4bfc7.gif" alt="gif" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+---
+[![](https://visitcount.itsvg.in/api?id=nvcong1710&icon=5&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
